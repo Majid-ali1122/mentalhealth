@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="333" height="147" viewBox="0 0 333 147">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_52" data-name="Rectangle 52" width="156" height="146" rx="33" fill="#91bdf2" stroke="#1168ed" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Group_120" data-name="Group 120" transform="translate(-49 -575)">
+    <g id="Group_35" data-name="Group 35">
+      <g id="Rectangle_20" data-name="Rectangle 20" transform="translate(49 575)" fill="#91bdf2" stroke="#1168ed" stroke-width="1">
+        <rect width="333" height="147" rx="32" stroke="none"/>
+        <rect x="0.5" y="0.5" width="332" height="146" rx="31.5" fill="none"/>
+      </g>
+      <text id="Combined_Quiz" data-name="Combined Quiz" transform="translate(71 617)" fill="#1168ed" font-size="20" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">COMBINED QUIZ</tspan></text>
+      <text id="Comb" transform="translate(235 627)" fill="#1168ed" font-size="48" font-family="Roboto-Bold, Roboto" font-weight="700" opacity="0.05"><tspan x="0" y="0">COMB</tspan></text>
+      <text id="Generalised_Anxiety_Disorder_GAD-7_Patient_Health_Questionnaire_9_PHQ-9_Work_and_Social_Adjustments_Scale_WSAS_" data-name="Generalised Anxiety Disorder (GAD-7)
+Patient Health Questionnaire 9 (PHQ-9)
+Work and Social Adjustments Scale (WSAS) " transform="translate(71 666)" fill="#18396a" font-size="12" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="0" y="0">Generalised Anxiety Disorder (GAD-7)</tspan><tspan x="0" y="14">Patient Health Questionnaire 9 (PHQ-9)</tspan><tspan x="0" y="28">Work and Social Adjustments Scale (WSAS) </tspan></text>
+    </g>
+    <g id="Mask_Group_4" data-name="Mask Group 4" transform="translate(225 575)" clip-path="url(#clip-path)">
+      <path id="Path_248" data-name="Path 248" d="M-148.4,393.124s8.656-52.071-32.631-97.977S-203.842,240.4-203.842,240.4c0,.016,49.585,0,49.585,0l27.653-2.62-1.11,110.157Z" transform="translate(293.064 -241.93)" fill="#74b3ff"/>
+    </g>
+  </g>
+</svg>

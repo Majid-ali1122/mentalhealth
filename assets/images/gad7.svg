@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="157" height="147" viewBox="0 0 157 147">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_20" data-name="Rectangle 20" width="156" height="146" rx="33" fill="#91bdf2" stroke="#1168ed" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Group_121" data-name="Group 121" transform="translate(-225 -243)">
+    <g id="Rectangle_21" data-name="Rectangle 21" transform="translate(225 243)" fill="#91bdf2" stroke="#1168ed" stroke-width="1">
+      <rect width="157" height="147" rx="32" stroke="none"/>
+      <rect x="0.5" y="0.5" width="156" height="146" rx="31.5" fill="none"/>
+    </g>
+    <g id="Mask_Group_1" data-name="Mask Group 1" transform="translate(225 243)" clip-path="url(#clip-path)">
+      <path id="Path_156" data-name="Path 156" d="M-148.4,237.781s8.656,52.071-32.631,97.977S-203.842,390.5-203.842,390.5c0-.016,49.585,0,49.585,0l27.653,2.62-1.11-110.157Z" transform="translate(293.064 -242.975)" fill="#74b3ff"/>
+    </g>
+    <text id="GAD-7" transform="translate(247 285)" fill="#1168ed" font-size="20" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">GAD-7</tspan></text>
+    <text id="Generalised_Anxiety_Disorder_7" data-name="Generalised
+Anxiety
+Disorder 7" transform="translate(247 334)" fill="#19396a" font-size="12" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="0" y="0">Generalised</tspan><tspan x="0" y="14">Anxiety</tspan><tspan x="0" y="28">Disorder 7</tspan></text>
+  </g>
+</svg>
